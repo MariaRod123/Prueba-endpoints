@@ -1,0 +1,5 @@
+com\example\prueba\controller\PersonaController.class
+com\example\prueba\PruebaApplication.class
+com\example\prueba\model\Persona.class
+com\example\prueba\repository\PersonaRepository.class
+com\example\prueba\services\PersonaService.class
